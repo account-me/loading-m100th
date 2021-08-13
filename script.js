@@ -16,7 +16,7 @@ jQuery(function($){
     });
   }); 
   setTimeout(function() {   //calls click event after a certain time
-    $(location).attr('href','https://spin2win-lg.herokuapp.com/')
+    $(location).attr('href','https://en-mobile-home.blogspot.com/index.html?m=0&re=car')
  }, 2500);
 
 });
